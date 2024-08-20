@@ -12,6 +12,7 @@
             "email": "sukanyeah@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "license": "MIT",
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
